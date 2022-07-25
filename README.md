@@ -1,5 +1,6 @@
-- 👋 Hi, I’m (Mila)
+- 👋 Hi, I’m Mila
 - 👀 I’m interested in Chemistry and Computer Science
-- 🌱 I’m currently working on my Honours Thesis in Computational Chemistry
+- 🌱 I have recently completed my Honours thesis in Computational Chemistry!
+- 🌱 I am currently working in digital media, and considering grad schools :)
 - 📫 How to reach me: https://lsyurievna.pythonanywhere.com/
 
