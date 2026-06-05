@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mila
-- 👀 I’m interested in Chemistry and Computer Science
-- 🌱 After working in pharma for two years, I am going to grad school at Western :)
+- 👀 I’m a chemist and a coder!
+- 🌱 After working in pharma for two years, I am attending grad school at Western University :)
 - 📫 [My personal web app](https://lsyurievna.pythonanywhere.com/)
 
